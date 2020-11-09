@@ -19,7 +19,6 @@ ___
 - 示意圖
 
     ![GitHub Logo](/img/Filter.png)
-    Format: ![Alt Text](url)
 
 
 <br><br><br><br><br>
