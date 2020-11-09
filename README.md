@@ -17,7 +17,8 @@ ___
     1. Result Filter
         - 當 Action 完成後，最終會經過的 Filter。
 - 示意圖
-![image](\img\Filter.png)
+
+    ![image](/img/Filter.png)
 
 
 <br><br><br><br><br>
