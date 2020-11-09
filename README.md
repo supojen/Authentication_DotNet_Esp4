@@ -18,7 +18,8 @@ ___
         - 當 Action 完成後，最終會經過的 Filter。
 - 示意圖
 
-    ![image](/img/Filter.png)
+    ![GitHub Logo](/img/Filter.png)
+    Format: ![Alt Text](url)
 
 
 <br><br><br><br><br>
